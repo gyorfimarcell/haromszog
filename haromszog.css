@@ -1,0 +1,18 @@
+fieldset {
+    border: 2px black solid;
+    border-radius: 10px;
+    background-color: beige;
+    box-shadow: 10px 15px goldenrod;
+}
+
+legend {
+    font-weight: bold;
+}
+
+input[type="number"]:focus {
+    border: 2px black solid;
+}
+
+hr {
+    border: 1px lightgray solid;
+}
